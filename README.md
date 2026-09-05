@@ -5,7 +5,7 @@ Homebrew tap for [Mac Transformer](https://github.com/geekychris/mac_transformer
 ## Install
 
 ```sh
-brew install --cask geekychris/mac-transformer/mac-transformer
+brew tap geekychris/mac-transformer && brew install --cask mac-transformer
 ```
 
 That's it. Homebrew will auto-tap the formula the first time, then install the latest signed + notarized DMG.
