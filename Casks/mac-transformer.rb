@@ -23,8 +23,8 @@ cask "mac-transformer" do
            "-f", "#{appdir}/Mac Transformer.app"
   end
 
-  uninstall quit:      "com.chris.mac-transformer",
-            launchctl: "com.chris.mac-transformer",
+  uninstall quit:      "com.geekychris.mac-transformer",
+            launchctl: "com.geekychris.mac-transformer",
             delete:    [
               "/Applications/Mac Transformer.app",
             ]
