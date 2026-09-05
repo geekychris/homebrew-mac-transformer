@@ -1,6 +1,6 @@
 cask "mac-transformer" do
   version "0.1.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "e35f21a78c30236f1e712ca48fa983d6a7192a73b6f7e51a3c324ac93ea4b95f"
 
   url "https://github.com/geekychris/mac_transformer/releases/download/v#{version}/mac-transformer-#{version}.dmg"
   name "Mac Transformer"
