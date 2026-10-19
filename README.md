@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Homebrew Mac Transformer logo" width="180">
+</p>
+
 # homebrew-mac-transformer
 
 Homebrew tap for [Mac Transformer](https://github.com/geekychris/mac_transformer) — a menu-bar app that converts documents to PDF/text/audio/summary via a pluggable pipeline, with optional publishing to Apple Books, Apple Music, Safari Reading List, Obsidian, and Notion.
